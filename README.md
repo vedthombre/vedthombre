@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder/banner.png" alt="Ved Thombre Banner" width="850"/>
+  <img src="https://github.com/vedthombre/vedthombre/blob/main/Coding%20boy.gif" alt="Ved Thombre Banner" width="850"/>
 </p>
 
 <h1 align="center">Ved Thombre</h1>
