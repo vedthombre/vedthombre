@@ -1,7 +1,9 @@
-<!-- Banner -->
 <p align="center">
-  <img src="https://github.com/vedthombre/vedthombre/blob/main/Coding%20boy.gif" alt="Ved Thombre Banner" width="850"/>
+  <a href="https://github.com/vedthombre">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=9333EA&center=true&vCenter=true&width=550&lines=Ved+Thombre;AI+Engineer+%7C+ML+Developer+%7C+Tech+Innovator;ML+Developer+and+Lifelong+Learner" alt="Typing SVG" />
+  </a>
 </p>
+
 
 <h1 align="center">Ved Thombre</h1>
 <h3 align="center">AI Engineer | ML Developer | Tech Innovator</h3>
