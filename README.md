@@ -63,7 +63,7 @@
 
 When I'm not optimizing vector databases or debugging C++, I am:
 * 🎹 Playing the **Piano** (Check out my reels!)
-* 🌍 Exploring **Goa** and travel vlogging.
+* 🌍 Exploring & travelling.
 * 📚 Reading about **Hybrid AI Models** and **Cloud Architecture**.
 
 <div align="center">
