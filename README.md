@@ -1,125 +1,67 @@
-<h1 align="center">Ved Thombre</h1>
-<h3 align="center">AI Engineer | ML Developer | Tech Innovator</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Ved%20Thombre&fontSize=70&fontColor=ffffff&fontAlign=50&desc=Engineering%20Self-Healing%20RAG%20Systems%20%26%20Scalable%20AI%20Agents&descAlign=50&descSize=20" width="100%"/>
+</div>
 
-<p align="center">
-  <em>Building intelligent systems that learn, adapt, and inspire.</em>
-</p>
-
-<p align="center">
+<div align="center">
+  
   <a href="https://linkedin.com/in/ved-thombre09">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:vedthombre10@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/vedthombre">
-    <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/vedthombre?tab=repositories">
-    <img src="https://img.shields.io/badge/Portfolio-purple?logo=vercel&logoColor=white" />
-  </a>
-</p>
+  
+  <br />
+  <br />
+
+  <p align="left" width="80%">
+   I am a 3rd-year Information Technology student specializing in <b>Agentic Workflows</b> and <b>Enterprise AI Security</b>. I move beyond basic model training to build middleware and architectures that make AI reliable, context-aware, and safe for business deployment.
+  </p>
+</div>
 
 ---
 
-## 🧭 Vision & Learning Path
+### 🛠️ The Arsenal
 
-I’m passionate about exploring the intersection of **Artificial Intelligence, data, and human creativity**.  
-I believe in learning by building — from small prototypes to large intelligent systems.  
-
-My focus areas include:
-- 🧠 **Machine Learning & Deep Learning** — mastering fundamentals & frameworks  
-- ⚙️ **AI Frameworks & Contextual Systems** — building models that *understand context*  
-- 🔍 **Computer Vision & NLP** — enabling systems to see and comprehend like humans  
-- 🌍 **Ethical & Accessible AI** — ensuring technology remains inclusive and responsible  
-
-> “Learning never stops — I’m not just training models, I’m training myself.”
+| **Core Engineering** | **AI & Infrastructure** | **Frameworks & Tools** |
+| :--- | :--- | :--- |
+| ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![DSA](https://img.shields.io/badge/DSA-Problem_Solving-orange?style=flat-square) | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
 ---
 
-## 🚀 Projects & Research Work
+### 💎 Featured Architecture & Projects
 
-### 🧾 [Certifii Verify Trust](https://github.com/vedthombre/certifii-verify-trust)
-**AI-based Document Authentication System**  
-- Detects document forgeries using **OCR, OpenCV**, and **Database Cross-verification**  
-- Achieved **95% verification accuracy** across 2000+ documents  
-- Designed real-time interface reducing manual validation by 65%  
-
----
-
-### ⚖️ [NyayaMantra.ai](https://github.com/vedthombre/NyayaMantra.ai)
-**AI-Powered Legal Intelligence Platform**  
-- Developed AI chatbot for judges, lawyers, and citizens  
-- Retrieves **case precedents** and **summarizes legal documents** using NLP  
-- Reduced research time by **60%** across 2000+ case files  
+| Project | Description & Impact | Tech Stack |
+| :--- | :--- | :--- |
+| **Artha AI** <br> *(Agentic System)* | A **self-healing RAG system** for financial analysis. Uses agentic workflows to correct hallucinations in real-time and provide accurate market insights. | `LangGraph` `Groq` `ChromaDB` |
+| **NyayaMantra.ai** <br> *(Legal NLP)* | **Legal Intelligence Platform** that reduces case research time by **60%**. Summarizes precedents and acts as a specialized legal assistant. | `NLP` `Transformers` `React` |
+| **Desanitize (Concept)** <br> *(Security)* | A middleware API designed to **prevent corporate data leaks** to public LLMs. Filters PII and sensitive data before it leaves the secure environment. | `Python` `Middleware` `Security` |
+| **Certifii** <br> *(Computer Vision)* | **Document Forgery Detection** system with **95% accuracy**. Automates the verification of academic and government IDs. | `OpenCV` `OCR` `Flask` |
 
 ---
 
-### 🧬 [Social AI & Synthetic Data Frameworks](https://github.com/vedthombre)
-**Research on Human-Aware Synthetic Data Models**  
-- Generated large-scale synthetic datasets improving ML model generalization  
-- Reduced inference latency by 200ms and improved response realism  
-- Focused on **Emotionally Intelligent AI** and **Adaptive Context Windows**
+### 📊 Engineering Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vedthombre&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedthombre&layout=compact&hide_border=true&theme=transparent&langs_count=6" height="150" alt="languages graph"  />
+</div>
 
 ---
 
-### 💼 [Fintech VIT — Open Source Lab Projects](https://github.com/vedthombre)
-**Educational FinTech Innovations**
-- Conducted knowledge-sharing workshops on ML & product design  
-- Mentored developers on best practices in DSA and model optimization  
+### 🎹 Offline Mode
+> *"Logic is the beginning of wisdom, not the end."* — Spock
 
----
+When I'm not optimizing vector databases or debugging C++, I am:
+* 🎹 Playing the **Piano** (Check out my reels!)
+* 🌍 Exploring **Goa** and travel vlogging.
+* 📚 Reading about **Hybrid AI Models** and **Cloud Architecture**.
 
-## 🧠 Tech Stack
-
-**Languages:** Python, C/C++, Java, JavaScript, SQL  
-**AI/ML Tools:** TensorFlow, Keras, Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn  
-**Frameworks:** Flask, Streamlit, FastAPI, Pydantic, SQLAlchemy  
-**Other Tools:** Git, GitHub, VS Code, MATLAB, OpenAI API, Hugging Face  
-
----
-
-## 📚 What I'm Currently Exploring
-
-- 🔍 **LLM Alignment** — improving understanding and response context in AI models  
-- 🧩 **Multi-modal AI Systems** — combining text, image, and emotion-based learning  
-- ⚡ **AI-Powered Product Design** — integrating ML into real-world systems  
-- 🌱 **Open-source AI ethics research** — building responsible and explainable AI  
-
----
-
-## 📈 GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/vedthombre">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vedthombre&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedthombre&layout=compact&langs_count=8&theme=radical" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vedthombre&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vedthombre&theme=radical&area=true&hide_border=true" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vedthombre&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/vedthombre?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/vedthombre?affiliations=OWNER%2CCOLLABORATOR&style=social" />
-</p>
-
----
-
-## 🌟 Let’s Connect
-
-📫 **Email:** [vedthombre10@gmail.com](mailto:vedthombre10@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/ved-thombre09](https://linkedin.com/in/ved-thombre09)  
-💻 **GitHub:** [github.com/vedthombre](https://github.com/vedthombre)
-
----
-
-⭐ *“Innovation is meaningful only when it empowers others.”*  
-— **Ved Thombre**
+<div align="center">
+  <br>
+  <sub>Visitor Count</sub><br>
+  <img src="https://komarev.com/ghpvc/?username=vedthombre&label=VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</div>
