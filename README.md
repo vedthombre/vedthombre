@@ -62,7 +62,7 @@
 > *"Logic is the beginning of wisdom, not the end."* — Spock
 
 When I'm not optimizing vector databases or debugging C++, I am:
-* 🎹 Playing the **Piano** (Check out my reels!)
+* 🎹 Playing the **Piano** (Check out my reels! on @ved.wav_)
 * 🌍 Exploring & travelling.
 * 📚 Reading about **Hybrid AI Models** and **Cloud Architecture**.
 
