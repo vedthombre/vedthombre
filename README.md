@@ -46,6 +46,10 @@
 ### 📊 Data & Activity Flow
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/vedthombre/vedthombre/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vedthombre&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true" width="100%" alt="activity graph" />
 </div>
 
