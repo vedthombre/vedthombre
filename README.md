@@ -6,7 +6,7 @@
 
 <div align="center">
   <br>
-  I am a <b>Pre-final year Information Technology student</b> moving beyond basic model training. My focus is on engineering robust <b>Agentic Workflows</b>, building secure middleware for Enterprise AI, and creating systems that are context-aware and reliable for business deployment.
+  I am a <b>final year Information Technology student</b> moving beyond basic model training. My focus is on engineering robust <b>Agentic Workflows</b>, building secure middleware for Enterprise AI, and creating systems that are context-aware and reliable for business deployment.
 </div>
 
 <div align="center">
