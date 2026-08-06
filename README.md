@@ -1,12 +1,12 @@
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=3FD4F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ved+Thombre" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=3FD4F7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Ved+Thombre;Building+Agentic+AI+Systems;Enterprise+AI+%7C+Automation+%7C+RAG" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
   <br>
-  I am a <b>final year Information Technology student</b> moving beyond basic model training. My focus is on engineering robust <b>Agentic Workflows</b>, building secure middleware for Enterprise AI, and creating systems that are context-aware and reliable for business deployment.
+  I am a <b>final year Information Technology student</b> passionate about building <b>Enterprise AI Systems</b>, <b>Agentic Workflows</b>, and secure AI infrastructure. My work focuses on designing reliable, production-ready applications that combine LLMs, automation, RAG, and intelligent orchestration to solve real business problems.
 </div>
 
 <div align="center">
@@ -26,9 +26,9 @@
 
 ### 🛠️ The Engineering Arsenal
 
-| **Core & Architecture** | **AI Infrastructure & Data** | **Frameworks & Deployment** |
+| **Programming & Core** | **AI & Data Infrastructure** | **Frameworks & DevOps** |
 | :--- | :--- | :--- |
-| ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![DSA](https://img.shields.io/badge/DSA-Data_Structures-orange?style=flat-square) | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Vector DBs](https://img.shields.io/badge/Vector_DBs-Chroma%2FPinecone-7B26ED?style=flat-square) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![LangGraph](https://img.shields.io/badge/LangGraph-Agentic_AI-000000?style=flat-square) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-Enterprise_AI-blue?style=flat-square) ![ChromaDB](https://img.shields.io/badge/ChromaDB-7B26ED?style=flat-square) ![Groq](https://img.shields.io/badge/Groq-LLM-orange?style=flat-square) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
 ---
 
@@ -36,10 +36,10 @@
 
 | Project Context | Tech Stack & Impact |
 | :--- | :--- |
-| **🤖 Artha AI** <br> *(Agentic Financial System)* | `LangGraph` `Groq` `ChromaDB` <br> A **self-healing RAG system** that uses agentic workflows to correct hallucinations in real-time, providing accurate financial market insights. |
-| **🛡️ Desanitize (Concept)** <br> *(AI Security Middleware)* | `Python` `PII Filtering` `Middleware` <br> An API gateway designed to **prevent corporate data leaks** when using public LLMs by filtering sensitive data before transmission. |
-| **⚖️ NyayaMantra.ai** <br> *(Legal NLP Platform)* | `NLP` `Transformers` `React` <br> **Legal Intelligence Platform** that acts as a specialized assistant, summarizing precedents and reducing case research time by **60%**. |
-| **👁️ Certifii** <br> *(Computer Vision)* | `OpenCV` `OCR` `Flask` <br> **Document Forgery Detection** system automating the verification of academic and government IDs with **95% accuracy**. |
+| **🛒 Vyakti AI** <br> *(Voice Commerce Platform)* | `Next.js` `LLMs` `Groq Whisper` `Agentic AI` <br> Voice-first shopping assistant that understands natural language, extracts user intent using structured AI workflows, compares products across quick-commerce platforms, and simplifies online purchasing through conversational AI. |
+| **🤖 Artha AI** <br> *(Enterprise Financial Intelligence)* | `LangGraph` `RAG` `ChromaDB` `Groq` <br> Multi-agent financial intelligence platform that combines retrieval-augmented generation with self-correcting workflows to deliver reliable market insights while minimizing hallucinations. |
+| **🔒 Shoonya** <br> *(AI Security & Privacy)* | `Chrome Extension` `JavaScript` `Security` `Regex` <br> Privacy-first browser extension that detects and redacts sensitive information such as API keys, credentials, emails, and personal identifiers before they reach public LLMs, helping prevent accidental data leaks. |
+| **⚡ AI Automation Platform** <br> *(Enterprise Workflow Automation)* | `n8n` `OpenAI` `Google Workspace` `Automation` <br> Built intelligent workflow automations including lead generation, personalized cold outreach, email sequencing, enrichment pipelines, and AI-powered business process automation for enterprise use cases. |
 
 ---
 
@@ -63,12 +63,14 @@
 ---
 
 ### 🎹 Offline Mode
+
 > *"Logic is the beginning of wisdom, not the end."* — Spock
 
-When I'm not optimizing vector databases or debugging C++, I am:
-* 🎹 Playing the **Piano** (Check out my reels! on @ved.wav_)
-* 🌍 Exploring & travelling.
-* 📚 Reading about **Hybrid AI Models** and **Cloud Architecture**.
+When I'm not designing AI systems or building automation pipelines, I am:
+
+* 🎹 Playing the **Piano** (Trinity College London).
+* 🌍 Exploring new places & travelling.
+* 📚 Reading about **Enterprise AI**, **AI Security**, **Distributed Systems**, and **Cloud Architecture**.
 
 <div align="center">
   <br>
