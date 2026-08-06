@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=3FD4F7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Ved+Thombre;Building+Agentic+AI+Systems; alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=3FD4F7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Ved+Thombre;Building+Agentic+AI+Systems;Enterprise+AI+%7C+Automation+%7C+RAG" alt="Typing SVG" />
   </a>
 </div>
 
