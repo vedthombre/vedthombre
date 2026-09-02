@@ -85,7 +85,7 @@ A financial intelligence system combining RAG, self-correction workflows, hybrid
 `LangGraph` `RAG` `ChromaDB` `Llama 3.3` `Groq`
 
 <a href="https://github.com/vedthombre/artha-financial-ai-intelligence">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="./assets/artha-ai.png" width="100%">
 </a>
 
 </td>
