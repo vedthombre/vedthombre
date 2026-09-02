@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=3FD4F7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Ved+Thombre;Building+Agentic+AI+Systems;Enterprise+AI+%7C+Automation+%7C+RAG" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=3FD4F7&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Ved+Thombre;Building+Agentic+AI+Systems;Enterprise+AI+%7C+Automation+%7C+RAG" alt="Typing SVG" />
   </a>
 </div>
 
@@ -32,14 +32,95 @@
 
 ---
 
-### 💎 Featured Architecture & Projects
+## 🏆 Featured Projects
 
-| Project Context | Tech Stack & Impact |
-| :--- | :--- |
-| **🛒 Vyakti AI** <br> *(Voice Commerce Platform)* | `Next.js` `LLMs` `Groq Whisper` `Agentic AI` <br> Voice-first shopping assistant that understands natural language, extracts user intent using structured AI workflows, compares products across quick-commerce platforms, and simplifies online purchasing through conversational AI. |
-| **🤖 Artha AI** <br> *(Enterprise Financial Intelligence)* | `LangGraph` `RAG` `ChromaDB` `Groq` <br> Multi-agent financial intelligence platform that combines retrieval-augmented generation with self-correcting workflows to deliver reliable market insights while minimizing hallucinations. |
-| **🔒 Shoonya** <br> *(AI Security & Privacy)* | `Chrome Extension` `JavaScript` `Security` `Regex` <br> Privacy-first browser extension that detects and redacts sensitive information such as API keys, credentials, emails, and personal identifiers before they reach public LLMs, helping prevent accidental data leaks. |
-| **⚡ AI Automation Platform** <br> *(Enterprise Workflow Automation)* | `n8n` `OpenAI` `Google Workspace` `Automation` <br> Built intelligent workflow automations including lead generation, personalized cold outreach, email sequencing, enrichment pipelines, and AI-powered business process automation for enterprise use cases. |
+<table>
+<tr>
+<td width="55%">
+<a href="https://github.com/vedthombre/vyakti-ai">
+<img src="https://raw.githubusercontent.com/vedthombre/vyakti-ai/master/assets/banner.png" width="100%" />
+</a>
+</td>
+
+<td width="45%">
+
+### 🛒 Vyakti AI
+
+**Voice-First Agentic Commerce Platform**
+
+An ultra-low-latency commerce engine designed to understand user intent and orchestrate intelligent shopping workflows through conversational AI.
+
+**Tech Stack**
+
+`Next.js` `TypeScript` `LLMs` `MCP` `OAuth 2.1` `Agentic AI`
+
+<a href="https://github.com/vedthombre/vyakti-ai">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td width="55%">
+<a href="https://github.com/vedthombre/artha-financial-ai-intelligence">
+<img src="https://raw.githubusercontent.com/vedthombre/artha-financial-ai-intelligence/main/assets/graph_architecture.png" width="100%" />
+</a>
+</td>
+
+<td width="45%">
+
+### 🤖 Artha AI
+
+**Autonomous Financial Intelligence**
+
+A financial intelligence system combining RAG, self-correction workflows, hybrid search, and LLM reasoning to produce reliable market insights while reducing hallucinations.
+
+**Tech Stack**
+
+`LangGraph` `RAG` `ChromaDB` `Llama 3.3` `Groq`
+
+<a href="https://github.com/vedthombre/artha-financial-ai-intelligence">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td width="55%">
+<a href="https://github.com/vedthombre/Shoonya">
+<img src="https://raw.githubusercontent.com/vedthombre/Shoonya/main/assets/banner.png" width="100%" />
+</a>
+</td>
+
+<td width="45%">
+
+### 🔒 Shoonya
+
+**AI Security & Privacy Platform**
+
+A privacy-first security platform that detects and prevents sensitive-data leaks across AI tools and developer environments using a hybrid ML pipeline.
+
+**Tech Stack**
+
+`JavaScript` `Security` `Machine Learning` `Regex` `Chrome Extension`
+
+<a href="https://github.com/vedthombre/Shoonya">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
