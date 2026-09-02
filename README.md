@@ -98,7 +98,7 @@ A financial intelligence system combining RAG, self-correction workflows, hybrid
 <tr>
 <td width="55%">
 <a href="https://github.com/vedthombre/Shoonya">
-<img src="https://raw.githubusercontent.com/vedthombre/Shoonya/main/assets/banner.png" width="100%" />
+<img src="./assets/shoonya.png" width="100%">
 </a>
 </td>
 
