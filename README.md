@@ -38,7 +38,9 @@
 <tr>
 <td width="55%">
 <a href="https://github.com/vedthombre/vyakti-ai">
-<img src="./assets/vyakti.png" width="100%">
+<td width="55%">
+<img src="./assets/vyakti.png" width="100%" height="320">
+</td>
 </a>
 </td>
 
@@ -68,7 +70,9 @@ An ultra-low-latency commerce engine designed to understand user intent and orch
 <tr>
 <td width="55%">
 <a href="https://github.com/vedthombre/artha-financial-ai-intelligence">
-<img src="./assets/artha-ai.png" width="100%">
+<td width="55%">
+<img src="./assets/artha-ai.png" width="100%" height="320">
+</td>
 </a>
 </td>
 
@@ -98,7 +102,9 @@ A financial intelligence system combining RAG, self-correction workflows, hybrid
 <tr>
 <td width="55%">
 <a href="https://github.com/vedthombre/Shoonya">
-<img src="./assets/shoonya.png" width="100%">
+<td width="55%">
+<img src="./assets/shoonya.png" width="100%" height="320">
+</td>
 </a>
 </td>
 
