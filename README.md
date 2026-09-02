@@ -38,7 +38,7 @@
 <tr>
 <td width="55%">
 <a href="https://github.com/vedthombre/vyakti-ai">
-<img src="https://raw.githubusercontent.com/vedthombre/vyakti-ai/master/assets/banner.png" width="100%" />
+<img src="./assets/vyakti.png" width="100%">
 </a>
 </td>
 
